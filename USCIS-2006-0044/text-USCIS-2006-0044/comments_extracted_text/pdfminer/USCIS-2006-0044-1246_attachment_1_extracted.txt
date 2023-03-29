@@ -1,0 +1,624 @@
+Creating a Market Driven Foreign Guest Worker Cap in Software Occupations
+By Roy Lawson
+May, 2006
+
+In February 2000 Gary Cohn and Walter Roche of the Baltimore Sun coined H-1b visa holders working 
+for high tech staffing companies as "indentured servants".4  There are problems with the H-1b visa that 
+harm immigrant workers, American workers, and in some cases all workers.  There are deficiencies in 
+the law, inadequate enforcement, and some companies who choose to skirt the law entirely.  These 
+points aren't discussed in detail, however one must acknowledge that problems do exist which are 
+outside the scope of this work.
+
+Congress is currently debating a major increase of H-1b guest worker visas in high tech occupations. 
+According to the USCIS, the majority of H-1b visa holders are concentrated in software related 
+occupations.3  Because of the disproportionate number of foreign workers in the software occupations, 
+an arbitrary raise in the H-1b visa cap will harm American software professionals more than any other 
+profession.  American corporations have requested a market based visa cap that does not account for 
+the labor conditions of American software professionals.  This work aims to provide a market-based 
+method of arriving at a total numerical cap for all foreign guest worker programs that accounts for 
+labor conditions in software occupations.
+
+A numerical cap for all foreign guest workers specific to software related occupations is needed to 
+prevent the harm of American software professionals; such a cap should be based upon employment 
+measurements collected by the Bureau of Labor Statistics (BLS).  There are several measurements of 
+employment originating from the BLS that may be useful in determining the labor market's ability to 
+absorb foreign workers without displacing American workers.  
+
+Some industry groups claim a shortage of software workers and that foreign workers are required to 
+meet a labor demand that American workers cannot fill.  According to the BLS, current growth in 
+software jobs is not keeping pace with the rapid growth experienced in the late 90's.  Figure 1.0 depicts 
+a downward trend in software job creation since the year 1995 when applying a linear regression 
+model, contradicting claims that there is a general shortage of software professionals in the United 
+States.  Software jobs growth in 1998 is 292 percent higher than the same measurement in 2005. 6-17
+
+Figure 1.0 (Source: United States Bureau of Labor Statistics) 6-17
+
+U.S. Software Job Creation 1995-2005 (CPS)
+
+t
+
+h
+w
+o
+r
+G
+b
+o
+J
+
+e
+r
+a
+w
+
+t
+f
+
+o
+S
+
+225,000
+
+200,000
+
+175,000
+
+150,000
+125,000
+
+100,000
+
+75,000
+
+50,000
+25,000
+
+0
+
+-25,000
+
+-50,000
+-75,000
+
+-100,000
+
+-125,000
+
+-150,000
+
+Annual Growth
+
+Linear regression, 
+Annual Growth 
+
+1995
+
+1996
+
+1997
+
+1998
+
+1999
+
+2000
+
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+1
+
+ 
+ 
+The Current Population Survey (CPS) measures both employment and unemployment at an 
+occupational level.  We are able to track job growth and unemployment in software occupations using 
+this data since the mid 1990's; it should be noted that the CPS methodology is not perfect given 
+methodology changes which may impact a time-series.  However, the BLS has indicated that the CPS 
+is the most reliable source of employment data at an occupational level.  BLS data relating to 
+employment are explained in detail on the BLS website.5
+
+There are two rules in determining a numerical foreign worker cap that won't harm American software 
+professionals.  First and foremost, don't displace American workers.  Second, stop the flow of foreign 
+guest workers when the economy sours and Americans are unable to gain employment.  Using these 
+two rules, we can state that the cap must come from job creation.  If the market is not creating jobs we 
+could conclude there is a low demand for additional workers.  We can also state with confidence that if 
+unemployment rates are trending upward the market must be sour.
+
+Figure 2.0 depicts growth in software jobs (a combination of four software-related job categories) from 
+2001 to 2005.6-17   Data indicates growth in jobs since 2002 and a loss of over 100,000 jobs since 2000 
+during peak IT employment.  The same regression model beginning the previous year depicted a 
+decline in job growth, meaning the software job market reversed course in 2005.  Unemployment data 
+indicated the same favorable trend from 2001 to 2005 and is depicted in Figure 2.1.
+
+Figures 2.0 & 2.1 (Source: BLS Current Population Survey)6-17
+U.S. Software Jobs 2001-2005 Linear Regression
+
+Total Software
+Linear regression, Total 
+Software 
+
+2325000
+
+2300000
+
+2275000
+
+2250000
+
+2225000
+
+2200000
+
+2175000
+
+2150000
+
+2125000
+
+2100000
+
+2075000
+
+2050000
+
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+U.S. Software Average Unemployment 2001-2005
+7
+
+Average Unemployment
+Linear regression, Av-
+erage Unemployment 
+
+e
+
+t
+
+a
+R
+
+t
+
+l
+
+n
+e
+m
+y
+o
+p
+m
+e
+n
+U
+
+6.5
+
+6
+
+5.5
+
+5
+
+4.5
+
+4
+
+3.5
+
+3
+
+2.5
+
+2
+
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+2
+
+ 
+When calculating a numerical foreign worker cap, we must first determine if the job market is capable 
+of absorbing the additional workers without harming the American labor market.  A reasonable 
+definition of a healthy job market would be one that trends upward using a linear regression model 
+given five years of historical data, while unemployment trends downwards over the same period using 
+the same model.  Such trends are depicted in Figures 2.0 and 2.1.6-17
+
+If it is determined that employment during the prior five years trended in a favorable direction 
+historical growth can be used to calculate foreign worker numerical caps.  One suitable formula would 
+set the cap at a fixed percent of average job growth during the previous three years after accounting for 
+unemployment.  A baseline measure derived from three years of trailing data would produce a more 
+stable cap, reducing the impact on both corporations and labor caused by outliers.  A sample worksheet 
+is depicted in Table 1.0.6-17
+
+Table 1.0: Suggested Sustainable Foreign Guest Worker Cap in Software Occupations6-17
+
+*Total Softw are  
+Em ploym e nt
+
+Annual 
+Grow th
+
+Trailing 3 
+(Sm oothe d)
+
+*Total Softw are  
+Une m ploym e nt
+
+*Total Softw are  
+Une m ploym e nt 
+Above  2% (Full) 
+Em ploym e nt
+
+**Adjus te d for 
+Une m ploym e nt 
+Above  2% (Full) 
+Em ploym e nt
+
+*** Sus tainable  
+Gue s t Work e r 
+Cap In Softw are  
+Occupations
+
+1,465,000
+
+1,486,000
+
+1,654,000
+
+1,862,000
+
+2,084,000
+
+2,214,000
+
+2,373,000
+
+2,234,000
+
+2,111,000
+
+2,115,000
+
+2,171,000
+
+2,247,000
+
+N/A
+
+21,000
+
+168,000
+
+208,000
+
+222,000
+
+130,000
+
+159,000
+
+-139,000
+
+-123,000
+
+4,000
+
+56,000
+
+76,000
+
+N/A
+
+N/A
+
+N/A
+
+132,333
+
+199,333
+
+186,667
+
+170,333
+
+50,000
+
+-34,333
+
+-86,000
+
+-21,000
+
+45,333
+
+N/A
+
+28,000
+
+23,000
+
+24,000
+
+29,000
+
+41,000
+
+50,000
+
+85,000
+
+111,000
+
+125,000
+
+94,000
+
+62,000
+
+N/A
+
+-2,280
+
+-10,540
+
+-13,720
+
+-13,260
+
+-4,100
+
+1,540
+
+38,620
+
+66,560
+
+80,200
+
+48,700
+
+15,820
+
+N/A
+
+N/A
+
+N/A
+
+146,053
+
+212,593
+
+190,767
+
+168,793
+
+11,380
+
+-100,893
+
+-166,200
+
+-69,700
+
+29,513
+
+N/A
+N/A
+N/A
+36,513
+53,148
+47,692
+42,198
+2,845
+0
+0
+0
+7,378
+
+Ye ar
+
+1994
+
+1995
+
+1996
+
+1997
+
+1998
+
+1999
+
+2000
+
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+* Software Employment and Unemployment is a comb ination of Computer Scientists, Systems Analysts, 
+
+  Computer Programmers, Computer Software Engineers, and Datab ase Administrators.
+
+** Employers are rewarded when unemployment rates are b elow 2% for the purposes of this study.
+
+   Unemployment ab ove 2% is adjusted for, providing relief to unemployed American workers.
+
+*** A sustainab le cap is a total for all foreign worker visa programs and applies toward new visas issued, not renewals.
+
+     It allows for new opportunities to b e split 25/75 b etween foreign and American software professionals.  Negative growth is changed to 0.
+
+Using the example depicted in Table 1.0, we arrive at a cap of 7,378 for software occupations in 2005 
+given that the previous five years trended favorably when a linear regression model was applied.  From 
+years 2002 through 2004 the cap was reduced to zero given negative job growth and an unfavorable 
+linear regression model.  Under this model, guest workers already present are not required to exit the 
+country during a sour job market.  American workers are protected from high unemployment or job 
+loss, while corporations are rewarded for keeping unemployment rates low.  The steps for calculating a 
+sustainable foreign guest worker cap are expressed in Table 2.0.
+
+As employment conditions improve companies should have access to more foreign guest workers, 
+however American workers should be protected if employment conditions reverse course.  This sample 
+model offers such protections for both labor and business.
+
+3
+
+Table 2.0: Calculating the Sustainable Foreign Guest Worker Cap in Software Occupations
+1. Determine Total Software Employment (E)
+2. Determine Annual Job Growth (A) = Current Year Employment (E) - Prior Year Employment (E-1/yr)
+3. Smooth Job Growth (B) = Average 3 years of historical Annual Job Growth (A)
+4. Determine Total Software Unemployment (U)
+5. Determine Unemployment Exceeding 2% (U1) = U-((U+E)*0.02)
+6. Adjust for Unemployment Exceeding 2% (A2) = B-U1
+7. Determine Sustainable Guest Worker Cap in Software Occupations (SCAP) = A2*0.25
+
+When comparing sustainable guest worker numbers with the actual number of guest workers approved, 
+it is clear that the number of foreign guest workers entering the United States is too high and is in fact 
+displacing American software professionals.  Table 3.0 depicts the number of H-1b visas approved in 
+software occupations from the years 2000 to 2003; the approval data originates from USCIS Reports on 
+Characteristics of Specialty Occupations.1-3  Complete historical data is not available for comparison, 
+but in the case of each year depicted the number of H-1b visas approved exceeds what this work 
+defines as sustainable.  During the year 2001 a total of 139,000 software jobs were lost while the 
+number of H-1b workers approved in software occupations was a staggering 110,713.  This is a 
+difference of 249,713 jobs.  
+
+In a single year, nearly one quarter of a million American software professionals either lost their jobs or 
+were displaced to foreign guest workers on the H-1b visa.  This scenario is exactly what must be 
+prevented in the future by implementing a more sustainable market driven system.  Guest worker visa 
+programs should prevent the displacement of American workers by halting the flow of additional 
+foreign workers when the labor market sours.  In 2001, the current system failed American workers 
+causing widespread hardship. 
+
+Table 3.0 H-1b Actual Visas Approved in Software Occupations and Jobs at Risk1-3
+
+Annual Softw are  
+Jobs  Grow th
+
+Initial H-1B Visas 
+Approved in 
+Softw are  
+Occupations
+
+Sus tainable 
+Gue st Worke r 
+Cap In Softw are  
+Occupations
+
+159,000
+
+-139,000
+
+-123,000
+
+4,000
+
+67,053
+
+110,713
+
+25,637
+
+28,879
+
+42,198
+
+2,845
+
+0
+
+0
+
+Am erican 
+Softw are Jobs  
+at Risk
+24,855
+107,868
+25,637
+28,879
+
+Year
+
+2000
+
+2001
+
+2002
+
+2003
+
+The demand for new software workers is much lower than it was in the late nineties.  In recent media 
+reporting you will find that prominent business and political leaders claim a shortage of technology 
+workers, however to date there is no mention in most media outlets that software occupational growth 
+in 1998 was 292 percent higher than it was in 2005 or that from 2001 through 2002 there were 262,000 
+software jobs lost.  There is little discourse on a sustainable guest worker program.  That must change 
+if the software profession is to remain a viable career choice in the United States.
+
+If the supply of foreign labor is not reduced to sustainable levels the demand for American labor will 
+go down and negatively impact American software professionals.  A market based approach as detailed 
+in this work addresses the legitimate concerns of both American workers and American business.  This 
+approach is based upon the concept of fundamental fairness; foreign guest workers are intended to fill 
+
+4
+
+one-fourth of newly created jobs while at the same time not displacing American software 
+professionals.  In the event that American workers experience long-term job loss or or unemployment 
+this system offers an additional safety-net driven by historical employment trends.  Any future claimed 
+shortages should be addressed by encouraging more students to pursue the computer sciences, not 
+through foreign labor subsidies that discourage students from entering software related occupations.
+
+Referenced Publications
+
+USCIS Reports on Characteristics of Specialty Occupations
+[1] http://www.shusterman.com/pdf/h1b-402.pdf (2000/2001)
+[2] http://www.ilw.com/immigdaily/News/2003,0924-h1b.pdf (2001-2002)
+[3] http://www.uscis.gov/graphics/aboutus/repsstudies/h1b/FY03H1BFnlCharRprt.pdf (2002-2003)
+
+Indentured servants for high-tech trade Labor; Baltimore Sun 2000.
+[4] http://www.ailf.org/pubed/n022100a.htm
+
+BLS Methodologies Explained:
+[5] http://www.bls.gov/emp/noeted/empnumb.htm
+
+Unpublished data from the Bureau of Labor Statistics are available at the following links:
+[6] 1994 CPS Employment by Occupation: http://www.freedomcast.com/ITJobs/table31994.pdf
+[7] 1995 CPS Employment by Occupation: http://www.freedomcast.com/ITJobs/table31995.pdf
+[8] 1996 CPS Employment by Occupation: http://www.freedomcast.com/ITJobs/table31996.pdf
+[9] 1997 CPS Employment by Occupation: http://www.freedomcast.com/ITJobs/table31997.pdf
+[10] 1998 CPS Employment by Occupation: http://www.freedomcast.com/ITJobs/table31998.pdf
+[11] 1999 CPS Employment by Occupation: http://www.freedomcast.com/ITJobs/table31999.pdf
+[12] 2000 CPS Employment by Occupation: http://www.freedomcast.com/ITJobs/O&I03_R2000.pdf
+[13] 2001 CPS Employment by Occupation: http://www.freedomcast.com/ITJobs/O&I03_R2001.pdf
+[14] 2002 CPS Employment by Occupation: http://www.freedomcast.com/ITJobs/O&I03_R2002.pdf
+[15] 2003 CPS Employment by Occupation: http://www.freedomcast.com/ITJobs/O&I03_R2003.pdf
+[16] 2004 CPS Employment by Occupation: http://www.freedomcast.com/ITJobs/O&I03_R2004.pdf
+[17] 2005 CPS Employment by Occupation: http://www.freedomcast.com/ITJobs/O&I03_R2005.pdf
+
+5
